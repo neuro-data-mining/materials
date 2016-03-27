@@ -1,0 +1,5 @@
+*.pyc
+.ipynb_checkpoints/
+fourier_transform_primer/440.wav
+fourier_transform_primer/wave.wav
+
